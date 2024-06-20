@@ -1,0 +1,274 @@
+{
+  "Organizations Relieving Poverty": [
+    "Facilitator organization supporting, improving, and enhancing the work of groups involved in the relief of poverty",
+    "Humanitarian assistance (outside of Canada)",
+    "Medical services not otherwise covered by basic health care (dental / optometry / counselling)",
+    "Operating a food bank",
+    "Operating a micro-lending program",
+    "Operating a shelter",
+    "Orphanage",
+    "Providing low-cost housing",
+    "Providing meals (including breakfast programs)",
+    "Providing medical equipment and supplies",
+    "Providing material assistance (clothing / computers / equipment)",
+    "Providing work related clothing / career development tools / work integration (resume writing / interview tips)",
+    "Refugee (support and settlement assistance)",
+    "Other Organizations Relieving Poverty"
+  ],
+  "Foundations Relieving Poverty": [
+    "Foundations for specified poverty charities",
+    "Foundations funding poverty QDs in general"
+  ],
+  "Teaching Institutions": [
+    "Preschool (early-childhood education / junior kindergarten)",
+    "Kindergarten",
+    "Public elementary school",
+    "Independent elementary schools (includes religious)",
+    "Public secondary school",
+    "Independent secondary school (including religious)",
+    "Public district board (all grades)",
+    "School association / board / district",
+    "Schools for students with intellectual disabilities (physical / communicative / mental or social learning difficulties)",
+    "Vocational / technical school",
+    "College (includes religious)",
+    "Educational camps",
+    "Other Teaching Institutions"
+  ],
+  "Support of schools and education": [
+    "School councils (parent-teacher associations)",
+    "Tutoring programs or services",
+    "Scholarships / bursaries / awards (scholastic achievement)",
+    "Literary / debating society",
+    "Literacy groups",
+    "Construction of schools / Renovations / building supplies",
+    "Educational aids / school supplies",
+    "Fund for specific college / university / school",
+    "Facilitator organization supporting and enhancing the work of groups involved in the advancement of education",
+    "Other Support of schools and education"
+  ],
+  "Education in the arts": [
+    "Art school (painting / sculpture / drawing / forms of visual arts)",
+    "Music conservatory / school / society",
+    "Theatre / film / drama school / society / company",
+    "Scholarships / bursaries / awards (studying performance arts)",
+    "Other Education in the arts"
+  ],
+  "Educational organizations not elsewhere categorized": [
+    "Cadets",
+    "Scouts",
+    "Other Educational organizations not elsewhere categorized"
+  ],
+  "Research": [
+    "Medical research (health sciences / disease)",
+    "Environmental research (ecosystem / conservation / wildlife)",
+    "Social sciences / humanities research (politics / law / linguistics / economics / psychology)",
+    "Public policy research institutes economic / social policy",
+    "Sciences / physics / chemistry",
+    "Other Research"
+  ],
+  "Foundations Advancing Education": [
+    "Foundations for specified educational charities",
+    "Foundations funding educational QDs in general"
+  ],
+  "Christianity": [
+    "Adventist",
+    "Anglican",
+    "Apostolic",
+    "Baptist",
+    "Catholic",
+    "Church of Christ",
+    "Gospel",
+    "Jehovah's Witnesses",
+    "Mennonite / Brethren / Hutterite",
+    "Orthodox",
+    "Pentecostal",
+    "Presbyterian",
+    "Protestant",
+    "Salvation Army Temples",
+    "United",
+    "Other Christianity"
+  ],
+  "Islam": [
+    "Ahmadi",
+    "Shia",
+    "Sunni",
+    "Other Islam"
+  ],
+  "Judaism": [
+    "Orthodox",
+    "Other Judaism"
+  ],
+  "Other Religions": [
+    "Baha'i",
+    "Buddhism",
+    "Hinduism",
+    "Jainism",
+    "Sikhism",
+    "Other Other Religions"
+  ],
+  "Support of Religion": [
+    "Cemeteries (religious)",
+    "Convents and Monasteries",
+    "Mission / Missionary organization",
+    "Fund / endowment for specific faith based organization",
+    "Music - ministries / religious festivals",
+    "Prayer fellowships / ministries / circles",
+    "Providing and maintaining facilities / title-holding entities",
+    "Religious education classes (bible study)",
+    "Retreats - marriage encounter / spiritual / youth",
+    "Facilitator organization supporting and enhancing the work of groups involved in the advancement of religion",
+    "Youth ministries / camps",
+    "Other Support of Religion"
+  ],
+  "Ecumenical and Inter-faith Organizations": [
+    "Supporting/enhancing the work of religious groups / Collaborating with other denominations / Discussing theological topics"
+  ],
+  "Foundations Advancing Religions": [
+    "Foundations for specified religious charities",
+    "Foundations funding religious QDs in general"
+  ],
+  "Core Health Care": [
+    "Addiction recovery programs and centres",
+    "Community health centre / medical clinic",
+    "Dental Clinic",
+    "Counselling or support group programs",
+    "First aid services",
+    "Hospitals (diagnosing and treating health conditions)",
+    "Hospice",
+    "Providing home health care",
+    "Providing palliative care service",
+    "Providing psychological counselling",
+    "Providing physical, occupational, speech or massage therapy",
+    "Rehabilitation programs and centres",
+    "Treatment / preventative care for specific disease / health condition",
+    "Other Core Health Care"
+  ],
+  "Supportive Health Care": [
+    "Accommodation for hospital patients' visit",
+    "Family planning / birth control / pregnancy crisis counseling",
+    "General health promotion / prevention",
+    "Health Boards - established by province",
+    "Independent living skills (peer support / referrals)",
+    "Health counselling and group support programs",
+    "Health Councils - established by province",
+    "Health / medical conference / seminars",
+    "Hospital auxiliaries",
+    "Providing comfort items (cope with hospitalization / health condition)",
+    "Respite for caregivers of persons with serious health conditions",
+    "Services that facilitate the delivery of health care",
+    "Services for adults and children with developmental disabilities",
+    "Transportation to medical appointments",
+    "Voluntary Association for specific hospital / home",
+    "Other Supportive Health Care"
+  ],
+  "Protective Health Care": [
+    "Ambulance or paramedic services",
+    "Disaster relief",
+    "Voluntary Fire-fighting services",
+    "Safety council / society",
+    "Search and rescue / lifesaving services",
+    "Other Protective Health Care"
+  ],
+  "Health Care Products": [
+    "Medical equipment / supplies (for use inside or outside Canada)"
+  ],
+  "Complementary or Alternative Health Care": [
+    "Therapeutic programs for persons with disabilities",
+    "Providing physical fitness and wellness facilities / programs",
+    "Other Complementary or Alternative Health Care"
+  ],
+  "Relief of the Aged": [
+    "Adapting residential accommodation",
+    "Home support/services (personal care / meals / housekeeping / shopping assistance / laundry / home repair)",
+    "Nursing home / senior's home with care",
+    "Relieving isolation (companionship / accompaniment to social outings)",
+    "Seniors' outreach programs (housekeeping / tax preparation, etc.)",
+    "Transportation for seniors",
+    "Other Relief of the Aged"
+  ],
+  "Upholding Human Rights": [
+    "Increasing public awareness and promoting respect of human rights issues",
+    "Upholding human rights law / administration and enforcement of human rights law",
+    "Other Upholding Human Rights"
+  ],
+  "Community Resource": [
+    "Aboriginal programs and services (includes friendship centres)",
+    "Battered women's centre",
+    "Crime prevention / preservation of law & order",
+    "Community land trust",
+    "Crisis / distress phone line",
+    "Daycare / Nursery / After school care",
+    "Employment / Job training for people with physical and mental disabilities",
+    "Immigrant services (jobs / language / etc.)",
+    "Legal assistance and services (mediation)",
+    "Military / family / veterans' support",
+    "Missing children organization",
+    "Rape / sexual assault / abuse support",
+    "Rehabilitation of offenders",
+    "Suicide prevention",
+    "Facilitator organization supporting and enhancing the work of groups involved in the delivery of charitable programs",
+    "Employment counselling / guidance (career)",
+    "Employment training / rehabilitation",
+    "Volunteerism",
+    "Youth programs and services",
+    "Other Community Resource"
+  ],
+  "Environment": [
+    "Conservation of nature / habitat group / ecosystem preservation etc.",
+    "Pollution Reduction",
+    "Environmental development solutions and technologies",
+    "Other Environment"
+  ],
+  "Agriculture": [
+    "Agriculture / farm society or aid / safety",
+    "Horticultural society",
+    "Other Agriculture"
+  ],
+  "Animal Welfare": [
+    "Animal hospital",
+    "Animal shelter / neuter / adoption",
+    "Wildlife protection organization",
+    "Rescuing domestic / holding stray / abandoned / surrendered animals",
+    "Other Animal Welfare"
+  ],
+  "Arts": [
+    "Arts council (promoting the industry)",
+    "Arts festival",
+    "Crafts (beadwork / ceramics / furniture / glass / metal / wood / etc.)",
+    "Dance (ballet / classical / jazz / modern / tap / etc.)",
+    "Literature (novels / playwriting / poetry / short stories / etc.)",
+    "Media arts (animation / film / screenwriting / etc.)",
+    "Music (band / choral / gospel / jazz / opera / orchestral / etc.)",
+    "Music Festival",
+    "Theatre / performing arts (drama / comedy / musical / puppetry / etc.)",
+    "Visual arts (drawing and illustration / painting / photography / etc.)",
+    "Other Arts"
+  ],
+  "Public Amenities": [
+    "Aquarium",
+    "Archives",
+    "Art gallery",
+    "Botanical garden",
+    "Camps / recreation",
+    "Cemetery (secular)",
+    "Community Centre / hall",
+    "Hall of fame",
+    "Heritage / Historical site",
+    "Library",
+    "Memorial",
+    "Museum",
+    "National and provincial parks",
+    "Nature centre / society / trails",
+    "Performing arts centre / facility",
+    "Public recreation / arenas / parks / playgrounds / pools",
+    "Zoo / zoological society",
+    "Other Public Amenities"
+  ],
+  "Foundations": [
+    "Foundations for specified community benefit",
+    "Foundations funding community benefit QDs in general"
+  ],
+  "NASO": [
+    "NASO"
+  ]
+}

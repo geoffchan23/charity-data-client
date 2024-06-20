@@ -1,0 +1,1831 @@
+{ "charities": [
+    {
+        "bn": "848623575RR0001",
+        "legalName": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "legalNameRaw": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "accountName": "The Roman Catholic Episcopal Corporation for the Diocese of Peterborough, in Ontario, Canada",
+        "description": "THE ROMAN CATHOLIC DIOCESE OF PETERBOROUGH IS A CIVIL CORPORATION AND EXISTS FOR THE PURPOSE OF THE ADVANCEMENT OF RELIGION, WITH RESPONSIBILITY FOR 40 PARISHES. THE DIOCESE AND PARISHES TOGETHER PROVIDE: DAILY WORSHIP SERVICES, PRAYER AND SPIRITUAL GROWTH; PREPARATION OF STUDENTS FOR THE RECEPTION OF SACRAMENTS; PREPARATION OF ADULTS FOR MARRIAGE; EDUCATION FOR SEMINARIANS AND PRIESTS; PROVIDE FOOD AND VOUCHERS TO THE NEEDY; COMFORT TO THE BEREAVED; PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL; ASSISTANCE TO ILL AND DYING; FUNERAL SERVICES.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "214955.00",
+        "revenueRange": {
+            "code": "B",
+            "description": "1,500,001 - 5,000,000",
+            "value": "2610051.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Catholic",
+        "subcategoryFrench": "Catholiques",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "THE ROMAN CATHOLIC DIOCESE OF PETERBOROUGH IS A CIVIL CORPORATION AND EXISTS FOR THE PURPOSE OF THE ADVANCEMENT OF RELIGION, WITH RESPONSIBILITY FOR 40 PARISHES. THE DIOCESE AND PARISHES TOGETHER PROVIDE: DAILY WORSHIP SERVICES, PRAYER AND SPIRITUAL GROWTH; PREPARATION OF STUDENTS FOR THE RECEPTION OF SACRAMENTS; PREPARATION OF ADULTS FOR MARRIAGE; EDUCATION FOR SEMINARIANS AND PRIESTS; PROVIDE FOOD AND VOUCHERS TO THE NEEDY; COMFORT TO THE BEREAVED; PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL; ASSISTANCE TO ILL AND DYING; FUNERAL SERVICES."
+            }
+        ]
+    },
+    {
+        "bn": "107797383RR0006",
+        "legalName": "ONTARIO CONFERENCE OF THE SEVENTH-DAY ADVENTIST CHURCH",
+        "legalNameRaw": "ONTARIO CONFERENCE OF THE SEVENTH-DAY ADVENTIST CHURCH",
+        "accountName": "PETERBOROUGH SEVENTH-DAY ADVENTIST CHURCH",
+        "description": "The church holds weekly services promoting biblical teachings, doctrines, and observances as practiced by the Seventh-day Adventist Church. These activities are conducted through church services, bible classes, and other religious programs. Other church activities include pastoral visitations, counseling, baptism, weddings, child dedication, funerals, community outreach programs, and evangelistic meetings.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "174740.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "242203.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Adventist",
+        "subcategoryFrench": "Adventiste",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "The church holds weekly services promoting biblical teachings, doctrines, and observances as practiced by the Seventh-day Adventist Church. These activities are conducted through church services, bible classes, and other religious programs. Other church activities include pastoral visitations, counseling, baptism, weddings, child dedication, funerals, community outreach programs, and evangelistic meetings."
+            }
+        ]
+    },
+    {
+        "bn": "106832793RR0001",
+        "legalName": "CALVARY PENTECOSTAL CHURCH",
+        "legalNameRaw": "CALVARY PENTECOSTAL CHURCH",
+        "accountName": "CALVARY PENTECOSTAL CHURCH",
+        "description": "Weekly Sunday morning programs for adults and children. Christian training and fellowship. Weekly mid-week programs for children, Jr. High and Sr. High youth. Periodic seniors meetings and various community Meet-ups meeting on-campus, in homes and in the community. Camps and events for children. Support for local and global missions through missions and community-based organizations.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "153623.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "1204206.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Pentecostal",
+        "subcategoryFrench": "Pentecôtiste",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "Weekly Sunday morning programs for adults and children. Christian training and fellowship. Weekly mid-week programs for children, Jr. High and Sr. High youth. Periodic seniors meetings and various community Meet-ups meeting on-campus, in homes and in the community. Camps and events for children. Support for local and global missions through missions and community-based organizations."
+            }
+        ]
+    },
+    {
+        "bn": "140315136RR0001",
+        "legalName": "LIVING HOPE CHRISTIAN REFORMED CHURCH",
+        "legalNameRaw": "LIVING HOPE CHRISTIAN REFORMED CHURCH",
+        "accountName": "LIVING HOPE CHRISTIAN REFORMED CHURCH",
+        "description": "WE HOLD WEEKLY WORSHIP SERVICES.  WE OFFER WEEKLY MINISTRIES FOR WOMEN, CHILDREN AND YOUTH.  WE OPERATE A WEEK LONG SUMMER RELIGIOUS PROGRAM FOR CHILDREN.  WE GIVE PASTORAL CARE.  WE DONATE TO LOCAL CHARITIES TO SUPPORT THOSE LESS FORTUNATE IN THE AREA.  WE DONATE TO REGIONAL AND DENOMINATIONAL HEADQUARTERS TO SUPPORT PROGRAMS IN   AND OUTSIDE OF CANADA.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "135384.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "609289.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-06-30 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "WE HOLD WEEKLY WORSHIP SERVICES.  WE OFFER WEEKLY MINISTRIES FOR WOMEN, CHILDREN AND YOUTH.  WE OPERATE A WEEK LONG SUMMER RELIGIOUS PROGRAM FOR CHILDREN.  WE GIVE PASTORAL CARE.  WE DONATE TO LOCAL CHARITIES TO SUPPORT THOSE LESS FORTUNATE IN THE AREA.  WE DONATE TO REGIONAL AND DENOMINATIONAL HEADQUARTERS TO SUPPORT PROGRAMS IN   AND OUTSIDE OF CANADA."
+            }
+        ]
+    },
+    {
+        "bn": "108022740RR0001",
+        "legalName": "ST. JOHNS ANGLICAN CHURCH",
+        "legalNameRaw": "ST. JOHNS ANGLICAN CHURCH",
+        "accountName": "ST. JOHNS ANGLICAN CHURCH",
+        "description": "WORSHIP, EDUCATION AND COMMUNITY SERVICE",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "100137.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "1277008.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Anglican",
+        "subcategoryFrench": "Anglicane",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "WORSHIP, EDUCATION AND COMMUNITY SERVICE"
+            }
+        ]
+    },
+    {
+        "bn": "129879094RR0001",
+        "legalName": "FERNDALE BIBLE CHURCH",
+        "legalNameRaw": "FERNDALE BIBLE CHURCH",
+        "accountName": "FERNDALE BIBLE CHURCH",
+        "description": "RELIGIOUS EDUCATION/ACTIVITY  MINISTRY TO MEMBERS OF CONGREGATION AND COMMUNITY",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "99178.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "572684.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "RELIGIOUS EDUCATION/ACTIVITY  MINISTRY TO MEMBERS OF CONGREGATION AND COMMUNITY"
+            }
+        ]
+    },
+    {
+        "bn": "851226043RR0001",
+        "legalName": "NORTHVIEW COMMUNITY CHURCH OF PETERBOROUGH INC.",
+        "legalNameRaw": "NORTHVIEW COMMUNITY CHURCH OF PETERBOROUGH INC.",
+        "accountName": "NORTHVIEW COMMUNITY CHURCH OF PETERBOROUGH INC.",
+        "description": "THE PURPOSELY THE CHARITY IS TO PROVIDE A PLACE OF WORSHIP, EDUCATION AND FELLOWSHIP TO MINISTER THE SPIRITUAL,PHYSICAL, SOCIAL AND MENTAL WELL BEING OF THE CITIZENS OF PETERBOROUGH AND THE SURROUNDING AREA.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "84241.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "582995.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Pentecostal",
+        "subcategoryFrench": "Pentecôtiste",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "THE PURPOSELY THE CHARITY IS TO PROVIDE A PLACE OF WORSHIP, EDUCATION AND FELLOWSHIP TO MINISTER THE SPIRITUAL,PHYSICAL, SOCIAL AND MENTAL WELL BEING OF THE CITIZENS OF PETERBOROUGH AND THE SURROUNDING AREA."
+            }
+        ]
+    },
+    {
+        "bn": "848623575RR0018",
+        "legalName": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "legalNameRaw": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "accountName": "St.Alphonsus Liguori Church",
+        "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "75660.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "557615.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Catholic",
+        "subcategoryFrench": "Catholiques",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL"
+            }
+        ]
+    },
+    {
+        "bn": "118848548RR0001",
+        "legalName": "CEPHAS CHRISTIAN REFORMED CHURCH OF PETERBOROUGH",
+        "legalNameRaw": "CEPHAS CHRISTIAN REFORMED CHURCH OF PETERBOROUGH",
+        "accountName": "CEPHAS CHRISTIAN REFORMED CHURCH OF PETERBOROUGH",
+        "description": "WE OFFER OUTREACH PROGRAM FOR LOCAL YOUTH BY OFFERING COOKING CLASSES.\\nWE HOLD WEEKLY WORSHIP SERVICES.   WE OFFER WEEKLY MINISTRIES FOR CHILDREN AND YOUTH.   WE GIVE PASTORAL CARE.   WE DONATE TO LOCAL CHARITIES TO SUPPORT THOSE LESS FORTUNATE IN THE AREA.   WE DONATE TO REGIONAL AND DENOMINATIONAL HEADQUARTERS TO SUPPORT PROGRAMS IN THE OUTSIDE OF CANADA.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "75264.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "240439.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "NP",
+                "description": "WE OFFER OUTREACH PROGRAM FOR LOCAL YOUTH BY OFFERING COOKING CLASSES."
+            },
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "WE HOLD WEEKLY WORSHIP SERVICES.   WE OFFER WEEKLY MINISTRIES FOR CHILDREN AND YOUTH.   WE GIVE PASTORAL CARE.   WE DONATE TO LOCAL CHARITIES TO SUPPORT THOSE LESS FORTUNATE IN THE AREA.   WE DONATE TO REGIONAL AND DENOMINATIONAL HEADQUARTERS TO SUPPORT PROGRAMS IN THE OUTSIDE OF CANADA."
+            }
+        ]
+    },
+    {
+        "bn": "848623575RR0002",
+        "legalName": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "legalNameRaw": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "accountName": "Cathedral of St Peter-in-Chains",
+        "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES  STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PREISTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMLESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL   SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "70474.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "647215.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Catholic",
+        "subcategoryFrench": "Catholiques",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES  STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PREISTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMLESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL   SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL"
+            }
+        ]
+    },
+    {
+        "bn": "842129686RR0001",
+        "legalName": "PATHWAY LIFE CHURCH",
+        "legalNameRaw": "PATHWAY LIFE CHURCH",
+        "accountName": "Pathway Life Church",
+        "description": "TO PROVIDE CHRISTIAN SERVICES AND EDUCATION TO INDIVIDUALS IN THE COUNTY OF PETERBOROUGH ONTARIO.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "67129.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "788854.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "TO PROVIDE CHRISTIAN SERVICES AND EDUCATION TO INDIVIDUALS IN THE COUNTY OF PETERBOROUGH ONTARIO."
+            }
+        ]
+    },
+    {
+        "bn": "107951618RR0260",
+        "legalName": "THE GOVERNING COUNCIL OF THE SALVATION ARMY IN CANADA/CONSEIL DE DIRECTION DE L'ARMÉE DU SALUT DU CANADA",
+        "legalNameRaw": "THE GOVERNING COUNCIL OF THE SALVATION ARMY IN CANADA/CONSEIL DE DIRECTION DE L'ARMÉE DU SALUT DU CANADA",
+        "accountName": "THE SALVATION ARMY PETERBOROUGH TEMPLE CORPS",
+        "description": "WE HOLD WORSHIP SERVICES WEEKLY, PROVIDE MINISTRIES FOR WOMEN, MEN, YOUTH AND CHILDREN, GIVE PASTORAL CARE, RUN A FOOD BANK, CLOTHING GIVEAWAY PROGRAM, DONATE FUNDS TO DENOMINATIONAL MISSIONARY WORK, RUN INSTRUMENTAL AND VOCAL PROGRAMS, RUN TAX CLINICS, A BREAKFAST PROGRAM AND OPERATE A THRIFT STORE.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "62568.00",
+        "revenueRange": {
+            "code": "B",
+            "description": "1,500,001 - 5,000,000",
+            "value": "1691132.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Salvation Army Temples",
+        "subcategoryFrench": "Temples de l'Armée du Salut",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-03-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "WE HOLD WORSHIP SERVICES WEEKLY, PROVIDE MINISTRIES FOR WOMEN, MEN, YOUTH AND CHILDREN, GIVE PASTORAL CARE, RUN A FOOD BANK, CLOTHING GIVEAWAY PROGRAM, DONATE FUNDS TO DENOMINATIONAL MISSIONARY WORK, RUN INSTRUMENTAL AND VOCAL PROGRAMS, RUN TAX CLINICS, A BREAKFAST PROGRAM AND OPERATE A THRIFT STORE."
+            }
+        ]
+    },
+    {
+        "bn": "107281750RR0001",
+        "legalName": "EDMISON HEIGHTS BIBLE CHAPEL",
+        "legalNameRaw": "EDMISON HEIGHTS BIBLE CHAPEL",
+        "accountName": "EDMISON HEIGHTS BIBLE CHAPEL",
+        "description": "EDMISON HEIGHTS BIBLE CHAPEL IS A PLACE OF WORSHIP THAT SEEKS TO PROVIDE SPIRITUAL CARE, COUNSELLING AND SUPPORT TO THE SURROUNDING COMMUNITY. THIS IS ACCOMPLISHED THROUGH VARIOUS PROGRAMS INCLUDING SUNDAY SERVICES, YOUTH GROUP, SENIOR ACTIVITIES, AWANA, CHILDREN'S CLUB, COLLEGE AND CAREERS AND PRAYER MEETINGS.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "55150.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "199881.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "EDMISON HEIGHTS BIBLE CHAPEL IS A PLACE OF WORSHIP THAT SEEKS TO PROVIDE SPIRITUAL CARE, COUNSELLING AND SUPPORT TO THE SURROUNDING COMMUNITY. THIS IS ACCOMPLISHED THROUGH VARIOUS PROGRAMS INCLUDING SUNDAY SERVICES, YOUTH GROUP, SENIOR ACTIVITIES, AWANA, CHILDREN'S CLUB, COLLEGE AND CAREERS AND PRAYER MEETINGS."
+            }
+        ]
+    },
+    {
+        "bn": "129929451RR0001",
+        "legalName": "PARK STREET BAPTIST CHURCH",
+        "legalNameRaw": "PARK STREET BAPTIST CHURCH",
+        "accountName": "PARK STREET BAPTIST CHURCH",
+        "description": "",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "54901.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "172231.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Baptist",
+        "subcategoryFrench": "Baptistes",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": []
+    },
+    {
+        "bn": "848623575RR0020",
+        "legalName": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "legalNameRaw": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "accountName": "St.Anne's Church",
+        "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "48767.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "411335.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Catholic",
+        "subcategoryFrench": "Catholiques",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL"
+            }
+        ]
+    },
+    {
+        "bn": "118783430RR0001",
+        "legalName": "ALL SAINTS CHURCH",
+        "legalNameRaw": "ALL SAINTS CHURCH",
+        "accountName": "ALL SAINTS CHURCH",
+        "description": "PROVIDING CHRISTIAN MINISTRY AND A COMMUNITY GATHERING SPACE FOR WORSHIP AND STUDY. PROVIDING LOW-INCOME HOUSING TO INDIVIDUALS IN NEED. PROVIDING FOOD SECURITY FOR THOSE IN NEED.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "45585.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "1119074.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Anglican",
+        "subcategoryFrench": "Anglicane",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDING CHRISTIAN MINISTRY AND A COMMUNITY GATHERING SPACE FOR WORSHIP AND STUDY. PROVIDING LOW-INCOME HOUSING TO INDIVIDUALS IN NEED. PROVIDING FOOD SECURITY FOR THOSE IN NEED."
+            }
+        ]
+    },
+    {
+        "bn": "107406134RR0001",
+        "legalName": "PETERBOROUGH FREE METHODIST CHURCH",
+        "legalNameRaw": "PETERBOROUGH FREE METHODIST CHURCH",
+        "accountName": "PETERBOROUGH FREE METHODIST CHURCH",
+        "description": "TO MINISTER TO THE SPIRITUAL NEEDS OF INDIVIDUALS AND FAMILIES IN THE COMMUNITY BY PROVIDING WORSHIP SERVICES, CHILDREN, YOUTH AND ADULT STUDY PROGRAMS, AND VISITATIONS TO THE SICK AND ELDERLY.  PROVIDING ASSISTANCE TO THE NEEDY IN THE COMMUNITY, SUPPORTING CAMPING, EDUCATION AND MINISTRY PROJECTS WITHIN CANADA AND ABROAD.  SUPPORTING OTHER COMMUNITY MINISTRIES CARRIED OUT BY QUALIFIED DONEES.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "41440.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "312369.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "TO MINISTER TO THE SPIRITUAL NEEDS OF INDIVIDUALS AND FAMILIES IN THE COMMUNITY BY PROVIDING WORSHIP SERVICES, CHILDREN, YOUTH AND ADULT STUDY PROGRAMS, AND VISITATIONS TO THE SICK AND ELDERLY.  PROVIDING ASSISTANCE TO THE NEEDY IN THE COMMUNITY, SUPPORTING CAMPING, EDUCATION AND MINISTRY PROJECTS WITHIN CANADA AND ABROAD.  SUPPORTING OTHER COMMUNITY MINISTRIES CARRIED OUT BY QUALIFIED DONEES."
+            }
+        ]
+    },
+    {
+        "bn": "118944735RR0001",
+        "legalName": "GRACE UNITED CHURCH",
+        "legalNameRaw": "GRACE UNITED CHURCH",
+        "accountName": "GRACE UNITED CHURCH",
+        "description": "Conduct weekly worship services; deliver ministries for men, women and children; delivery of social outreach programs, mission and other projects; provide pastoral care",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "36575.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "248795.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "United",
+        "subcategoryFrench": "Unie",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "Conduct weekly worship services; deliver ministries for men, women and children; delivery of social outreach programs, mission and other projects; provide pastoral care"
+            }
+        ]
+    },
+    {
+        "bn": "107425951RR0001",
+        "legalName": "Emmanuel United Church",
+        "legalNameRaw": "Emmanuel United Church",
+        "accountName": "Emmanuel United Church",
+        "description": "AS A CHURCH CONCREGATION WE PROVIDE WORSHIP SERVICES AND CHRISTIAN EDUCATION. WE PERFORM WEDDINGS AND FUNERALS, MINISTER TO THE ELDERLY THE SICK AND GRIEVING. WE HAVE STUDY GROUPS THAT LEARN AND APPRECIATE OTHER FAITHS. WE PARTICIPATE IN THE PROVISION OF MEALS TO THE NEEDY AND HOMELESS. WE CONTRIBUTE TO THE MISSION SERVICES FUND OF THE UNITED CHURCH OF CANADA. WE ARE CONTINUING TO EXPAND THE ACTIVITIES FOR SPIRITUAL AND SOCIAL JUSTICE WITH INCREASED OUTREACH TO THE NEEDY IN THE NEIGHBORHOOD THROUGH PARTICIPATION AND CONTRIBUTIONS TO OTHER SOCIAL AND COMMUNITY OUTREACH GROUPS",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "36105.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "91894.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "United",
+        "subcategoryFrench": "Unie",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "AS A CHURCH CONCREGATION WE PROVIDE WORSHIP SERVICES AND CHRISTIAN EDUCATION. WE PERFORM WEDDINGS AND FUNERALS, MINISTER TO THE ELDERLY THE SICK AND GRIEVING. WE HAVE STUDY GROUPS THAT LEARN AND APPRECIATE OTHER FAITHS. WE PARTICIPATE IN THE PROVISION OF MEALS TO THE NEEDY AND HOMELESS. WE CONTRIBUTE TO THE MISSION SERVICES FUND OF THE UNITED CHURCH OF CANADA. WE ARE CONTINUING TO EXPAND THE ACTIVITIES FOR SPIRITUAL AND SOCIAL JUSTICE WITH INCREASED OUTREACH TO THE NEEDY IN THE NEIGHBORHOOD THROUGH PARTICIPATION AND CONTRIBUTIONS TO OTHER SOCIAL AND COMMUNITY OUTREACH GROUPS"
+            }
+        ]
+    },
+    {
+        "bn": "848623575RR0005",
+        "legalName": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "legalNameRaw": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "accountName": "Immaculate Conception Church",
+        "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "29674.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "286379.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Catholic",
+        "subcategoryFrench": "Catholiques",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL"
+            }
+        ]
+    },
+    {
+        "bn": "882854508RR0001",
+        "legalName": "WESTMOUNT BIBLE CHAPEL OF PETERBOROUGH",
+        "legalNameRaw": "WESTMOUNT BIBLE CHAPEL OF PETERBOROUGH",
+        "accountName": "WESTMOUNT BIBLE CHAPEL OF PETERBOROUGH",
+        "description": "CORPORATE WORSHIP, BIBLE TEACHING, YOUTH AND CHILDREN'S PROGRAMS, BIBLE STUDIES, CHRISTIAN MISSIONARY SUPPORT - LOCALLY, NATIONALLY, INTERNATIONALLY, PARA-CHURCH INVOLVEMENT",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "27540.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "258647.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "CORPORATE WORSHIP, BIBLE TEACHING, YOUTH AND CHILDREN'S PROGRAMS, BIBLE STUDIES, CHRISTIAN MISSIONARY SUPPORT - LOCALLY, NATIONALLY, INTERNATIONALLY, PARA-CHURCH INVOLVEMENT"
+            }
+        ]
+    },
+    {
+        "bn": "848623575RR0023",
+        "legalName": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "legalNameRaw": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "accountName": "St.John the Baptist Church",
+        "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK AND DYING. REFERRALS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "27510.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "232086.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Catholic",
+        "subcategoryFrench": "Catholiques",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PRIESTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMELESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK AND DYING. REFERRALS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL"
+            }
+        ]
+    },
+    {
+        "bn": "128949633RR0001",
+        "legalName": "ST STEPHEN'S PRESBYTERIAN CHURCH",
+        "legalNameRaw": "ST STEPHEN'S PRESBYTERIAN CHURCH",
+        "accountName": "ST STEPHEN'S PRESBYTERIAN CHURCH",
+        "description": "Weekly worship services are held  Provide ministries for men, women and children  Provide pastoral care for those in need  Donate funds to Presbyterians Sharing to support national programs and national/international missionary activities  Donate funds to Presbyterian World Service and Development for relief and development work  Donate money and services to local agencies serving the poor and hungry.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "27276.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "194750.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Presbyterian",
+        "subcategoryFrench": "Presbytériennes",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "Weekly worship services are held  Provide ministries for men, women and children  Provide pastoral care for those in need  Donate funds to Presbyterians Sharing to support national programs and national/international missionary activities  Donate funds to Presbyterian World Service and Development for relief and development work  Donate money and services to local agencies serving the poor and hungry."
+            }
+        ]
+    },
+    {
+        "bn": "848623575RR0016",
+        "legalName": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "legalNameRaw": "THE ROMAN CATHOLIC EPISCOPAL CORPORATION FOR THE DIOCESE OF PETERBOROUGH",
+        "accountName": "Sacred Heart Church",
+        "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES  STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PREISTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMLESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL   SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "25070.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "217600.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Catholic",
+        "subcategoryFrench": "Catholiques",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDES THE SERVICES OF THE ROMAN CATHOLIC CHURCH TO MEMBERS OF THE COMMUNITY. IN THIS RESPECT, THE PARISH HOLDS DAILY WORSHIPS SERVICES, PREPARES  STUDENTS FOR THE RECEPTION OF SACRAMENTS. PROVIDES PROGRAMS OF PRAYER AND SPIRITUAL GROWTH. PROVIDES EDUCATION FOR SEMINARIANS AND PREISTS. PROVIDE PASTORAL CARE TO THE NEEDY, HOMLESS AND MENTALLY ILL. PROVIDES COMFORT TO THE BEREAVED. PREPARES ADULTS FOR MARRIAGE. PROVIDES MARRIAGE AND FUNERAL   SERVICES. ORGANIZES SPECIAL DAYS OF PRAYER AND SPIRITUAL GROWTH. ASSISTS THE SICK, AND DYING. REFERS INDIVIDUALS AND FAMILIES TO RELEVANT SOCIAL"
+            }
+        ]
+    },
+    {
+        "bn": "119196418RR0001",
+        "legalName": "ST. PAUL'S PRESBYTERIAN CHURCH",
+        "legalNameRaw": "ST. PAUL'S PRESBYTERIAN CHURCH",
+        "accountName": "ST. PAUL'S PRESBYTERIAN CHURCH",
+        "description": "A PLACE OF WORSHIP FOR A PRESBYTERIAN CHURCH ORGANIZATION, SOCIAL OUTREACH, RELIGIOUS FELLOWSHIP, AS WELL AS CONTINUING SUPPORT OF A ORPHANAGE IN HAITI. WE ALSO SUPPORT A NEWCOMER'S MISSION FOR NEW IMMIGRANTS TO THE PETERBOROUGH AREA, AND WE SPONSOR LOCAL SYRIAN REFUGEE FAMILIES.  WE ALSO SPONSOR A FOSTER CHILD IN BURKINO FASO.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "24122.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "381676.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Presbyterian",
+        "subcategoryFrench": "Presbytériennes",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "A PLACE OF WORSHIP FOR A PRESBYTERIAN CHURCH ORGANIZATION, SOCIAL OUTREACH, RELIGIOUS FELLOWSHIP, AS WELL AS CONTINUING SUPPORT OF A ORPHANAGE IN HAITI. WE ALSO SUPPORT A NEWCOMER'S MISSION FOR NEW IMMIGRANTS TO THE PETERBOROUGH AREA, AND WE SPONSOR LOCAL SYRIAN REFUGEE FAMILIES.  WE ALSO SPONSOR A FOSTER CHILD IN BURKINO FASO."
+            }
+        ]
+    },
+    {
+        "bn": "118796408RR0001",
+        "legalName": "AUBURN BIBLE CHAPEL",
+        "legalNameRaw": "AUBURN BIBLE CHAPEL",
+        "accountName": "AUBURN BIBLE CHAPEL",
+        "description": "THE PURPOSE OF THE CHARITY IS TO PROVIDE A PLACE OF WORSHIP, EDUCATION, AND FELLOWSHIP TO MINISTER TO THE SPIRITUAL, PHYSICAL, SOCIAL AND MENTAL WELL BEING OF THE CITIZENS OF PETERBOROUGH AND THE SURROUNDING AREA. ACTIVITIES INCLUDE REGULAR CHURCH SERVICES, INCLUDING SUNDAY SCHOOL PROGRAMS, YOUTH PROGRAMS AND BIBLE STUDIES.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "22532.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "157802.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "THE PURPOSE OF THE CHARITY IS TO PROVIDE A PLACE OF WORSHIP, EDUCATION, AND FELLOWSHIP TO MINISTER TO THE SPIRITUAL, PHYSICAL, SOCIAL AND MENTAL WELL BEING OF THE CITIZENS OF PETERBOROUGH AND THE SURROUNDING AREA. ACTIVITIES INCLUDE REGULAR CHURCH SERVICES, INCLUDING SUNDAY SCHOOL PROGRAMS, YOUTH PROGRAMS AND BIBLE STUDIES."
+            }
+        ]
+    },
+    {
+        "bn": "119060796RR0001",
+        "legalName": "NORTHMINSTER UNITED CHURCH",
+        "legalNameRaw": "NORTHMINSTER UNITED CHURCH",
+        "accountName": "NORTHMINSTER UNITED CHURCH",
+        "description": "Provide regular Sunday services to the community both in person and online.  Provide weekly online prayer sessions in support of congregation requests.  Provide Pastoral Care, compassionate care; provide pastoral support & care as Chaplain to Peterborough Fire Services  Provide religious instruction for all ages.  Provide instruction & discussion around United Church of Canada Affirming congregations for outreach & inclusion  Provide financial gifts to other registered charities with similar charitable objectives.  Provide facilities at little cost for mandated services (i.e. nursing/foot care) complying with Covid restrictions.  Resumed full Grief Group gathering and counselling in January 2022; a second group began in November 2022  Received Affirm United Designation in October 2022",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "21713.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "285655.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "United",
+        "subcategoryFrench": "Unie",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "Provide regular Sunday services to the community both in person and online.  Provide weekly online prayer sessions in support of congregation requests.  Provide Pastoral Care, compassionate care; provide pastoral support & care as Chaplain to Peterborough Fire Services  Provide religious instruction for all ages.  Provide instruction & discussion around United Church of Canada Affirming congregations for outreach & inclusion  Provide financial gifts to other registered charities with similar charitable objectives.  Provide facilities at little cost for mandated services (i.e. nursing/foot care) complying with Covid restrictions.  Resumed full Grief Group gathering and counselling in January 2022; a second group began in November 2022  Received Affirm United Designation in October 2022"
+            }
+        ]
+    },
+    {
+        "bn": "830994695RR0001",
+        "legalName": "THE PENTECOSTALS OF PETERBOROUGH CHURCH",
+        "legalNameRaw": "THE PENTECOSTALS OF PETERBOROUGH CHURCH",
+        "accountName": "THE PENTECOSTALS OF PETERBOROUGH CHURCH",
+        "description": "(1) WORSHIP SERVICES               (4) EVANGELISM  (2) CHILDREN'S MINISTRY            (5) MISSIONS  (3) YOUTH EMPHASIS",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "18007.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "449781.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Pentecostal",
+        "subcategoryFrench": "Pentecôtiste",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "(1) WORSHIP SERVICES               (4) EVANGELISM  (2) CHILDREN'S MINISTRY            (5) MISSIONS  (3) YOUTH EMPHASIS"
+            }
+        ]
+    },
+    {
+        "bn": "867678286RR0001",
+        "legalName": "Canadian Catholic Campus Ministry / Pastorale universitaire et collégiale catholique du Canada",
+        "legalNameRaw": "Canadian Catholic Campus Ministry / Pastorale universitaire et collégiale catholique du Canada",
+        "accountName": "Canadian Catholic Campus Ministry / Pastorale universitaire et collégiale catholique du Canada",
+        "description": "SUPPORT CATHOLIC STUDENTS AND CATHOLIC CAMPUS MINISTERS ON CAMPUSES ACROSS CANADA & DEVELOP PROFESSION OF CAMPUS MINISTRY (STANDARDS, CODE OF ETHICS, ETC.)   CATHOLIC STUDENTS' WEEK - 130 EVENTS ON MORE THAN 30 CAMPUSES - CATHECHESIS, LITURGY AND MISSION   THREE REGIONAL STUDENT CONFERENCES (ANTIGONISH, WINNIPEG, LONDON)   NATIONAL CONFERENCE FOR CAMPUS MINISTERS   ORGANIZED TWO-WEEK JUSTICE AND FAITH IMMERSION EXPERIENCES IN VARIOUS COUNTRIES FOR CATHOLIC STUDENTS (GLOBAL CONNECTIONS)   CREATE DIRECTORY TO ASSIST CAMPUS MINISTERS AND OTHERS IN THE CATHOLIC COMMUNITY TO FIND AND COMMUNICATE WITH EACH OTHER. ONE BODY IN CHRIST ROUNDTABLE MEETINGS",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "18000.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "49655.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-04-30 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "SUPPORT CATHOLIC STUDENTS AND CATHOLIC CAMPUS MINISTERS ON CAMPUSES ACROSS CANADA & DEVELOP PROFESSION OF CAMPUS MINISTRY (STANDARDS, CODE OF ETHICS, ETC.)   CATHOLIC STUDENTS' WEEK - 130 EVENTS ON MORE THAN 30 CAMPUSES - CATHECHESIS, LITURGY AND MISSION   THREE REGIONAL STUDENT CONFERENCES (ANTIGONISH, WINNIPEG, LONDON)   NATIONAL CONFERENCE FOR CAMPUS MINISTERS   ORGANIZED TWO-WEEK JUSTICE AND FAITH IMMERSION EXPERIENCES IN VARIOUS COUNTRIES FOR CATHOLIC STUDENTS (GLOBAL CONNECTIONS)   CREATE DIRECTORY TO ASSIST CAMPUS MINISTERS AND OTHERS IN THE CATHOLIC COMMUNITY TO FIND AND COMMUNICATE WITH EACH OTHER. ONE BODY IN CHRIST ROUNDTABLE MEETINGS"
+            }
+        ]
+    },
+    {
+        "bn": "107755761RR0001",
+        "legalName": "MURRAY STREET BAPTIST CHURCH",
+        "legalNameRaw": "MURRAY STREET BAPTIST CHURCH",
+        "accountName": "MURRAY STREET BAPTIST CHURCH",
+        "description": "E1 Church holding weekly worship services, service ministries provided for men, women, and youth. Pastoral care is given.  E2 Activities include Sunday breakfast; clothing, food for the needy; men women and youth (at home and abroad)  E3 Social outreach",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "16941.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "223582.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Baptist",
+        "subcategoryFrench": "Baptistes",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "E1 Church holding weekly worship services, service ministries provided for men, women, and youth. Pastoral care is given.  E2 Activities include Sunday breakfast; clothing, food for the needy; men women and youth (at home and abroad)  E3 Social outreach"
+            }
+        ]
+    },
+    {
+        "bn": "131293946RR0001",
+        "legalName": "WESTDALE UNITED CHURCH",
+        "legalNameRaw": "WESTDALE UNITED CHURCH",
+        "accountName": "WESTDALE UNITED CHURCH",
+        "description": "GENERAL ACTIVITIES OF A UNITED CHURCH",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "13682.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "210050.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "United",
+        "subcategoryFrench": "Unie",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "GENERAL ACTIVITIES OF A UNITED CHURCH"
+            }
+        ]
+    },
+    {
+        "bn": "872568514RR0001",
+        "legalName": "KAWARTHA COMMUNITY CHURCH",
+        "legalNameRaw": "KAWARTHA COMMUNITY CHURCH",
+        "accountName": "KAWARTHA COMMUNITY CHURCH",
+        "description": "ONLINE SMALL GROUP STUDIES.\\nWEEKLY SUNDAY SERVICES GEARED TOWARDS PEOPLE WITH NO CHURCH BACKGROUND. YOUTH & CHILDREN'S MINISTRIES, SMALL GROUP BIBLE STUDY, DEDICATIONS & WATER BAPTISMS.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "12956.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "138038.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Pentecostal",
+        "subcategoryFrench": "Pentecôtiste",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "NP",
+                "description": "ONLINE SMALL GROUP STUDIES."
+            },
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "WEEKLY SUNDAY SERVICES GEARED TOWARDS PEOPLE WITH NO CHURCH BACKGROUND. YOUTH & CHILDREN'S MINISTRIES, SMALL GROUP BIBLE STUDY, DEDICATIONS & WATER BAPTISMS."
+            }
+        ]
+    },
+    {
+        "bn": "124167354RR0001",
+        "legalName": "EDMISON HEIGHTS BAPTIST CHURCH",
+        "legalNameRaw": "EDMISON HEIGHTS BAPTIST CHURCH",
+        "accountName": "EDMISON HEIGHTS BAPTIST CHURCH",
+        "description": "WORSHIP SERVICES, CHRISTIAN EDUCATION AND SUNDAY SCHOOL, MID-WEEK STUDY & SUPPORT GROUPS, COMMUNITY OUTREACH, HOSPITAL VISITATION, AND PASTORAL CARE PROGRAMS.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "12115.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "120358.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Baptist",
+        "subcategoryFrench": "Baptistes",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "WORSHIP SERVICES, CHRISTIAN EDUCATION AND SUNDAY SCHOOL, MID-WEEK STUDY & SUPPORT GROUPS, COMMUNITY OUTREACH, HOSPITAL VISITATION, AND PASTORAL CARE PROGRAMS."
+            }
+        ]
+    },
+    {
+        "bn": "106918121RR0001",
+        "legalName": "CHRIST EVANGELICAL LUTHERAN CHURCH",
+        "legalNameRaw": "CHRIST EVANGELICAL LUTHERAN CHURCH",
+        "accountName": "CHRIST EVANGELICAL LUTHERAN CHURCH OF PETERBOROUGH",
+        "description": "none due to COVID pandemic and no rostered pastor as leader for 2022\\nPractice of Lutheran liturgy and worship as group and online using guest pastors   meeting on zoom calls to discuss church business   meeting on zoom calls for Messy Church  regular calling of shut-ins to be sure their needs are met   no Bible study due to no pastor on staff  a few after church coffee times as COVID permitted and as volunteers offered   support of CLWR through givings   support of local outreach through offerings including Food bank,  Women's shelter and Hospice",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "11675.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "107103.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Protestant",
+        "subcategoryFrench": "Protestant",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "NP",
+                "description": "none due to COVID pandemic and no rostered pastor as leader for 2022"
+            },
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "Practice of Lutheran liturgy and worship as group and online using guest pastors   meeting on zoom calls to discuss church business   meeting on zoom calls for Messy Church  regular calling of shut-ins to be sure their needs are met   no Bible study due to no pastor on staff  a few after church coffee times as COVID permitted and as volunteers offered   support of CLWR through givings   support of local outreach through offerings including Food bank,  Women's shelter and Hospice"
+            }
+        ]
+    },
+    {
+        "bn": "859787301RR0001",
+        "legalName": "LAKEFIELD COMMUNITY CHURCH",
+        "legalNameRaw": "LAKEFIELD COMMUNITY CHURCH",
+        "accountName": "Lakefield Community Church",
+        "description": "Worship services, prayer meetings, Sunday school, youth group, bible study, community outreach",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "9226.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "46960.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Pentecostal",
+        "subcategoryFrench": "Pentecôtiste",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "Worship services, prayer meetings, Sunday school, youth group, bible study, community outreach"
+            }
+        ]
+    },
+    {
+        "bn": "108021601RR0001",
+        "legalName": "ST. JAMES UNITED CHURCH",
+        "legalNameRaw": "ST. JAMES UNITED CHURCH",
+        "accountName": "ST. JAMES UNITED CHURCH",
+        "description": "Sunday worship, Christian Education, Affordable Summer Camp, United Church Women - luncheons, muffin parties, plant sales, tea and bazaar, craft group, card group - Girl Guides of Canada, Jitterbugs (a free drop-in program for preschoolers and their parents/caregivers    Theatre Group - St. James Players - two productions per year - spring and fall - all practices are in the church as is the   spring production  FYD-L-Styx - a musical group practises weekly and uses our space for their concerts   Multi-faith services  Volunteers within the church make up the various committees {Official Board:  Health and Safety, Marketing (for Wesley Hall - our sanctuary/performance space), Affirm Committee, Christian Education Committee, Communications, Finance, Fundraising, Ministry and Personnel, NCC Lease Committee, Stewards, Trustees, Worship,",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "9133.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "402490.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "United",
+        "subcategoryFrench": "Unie",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "Sunday worship, Christian Education, Affordable Summer Camp, United Church Women - luncheons, muffin parties, plant sales, tea and bazaar, craft group, card group - Girl Guides of Canada, Jitterbugs (a free drop-in program for preschoolers and their parents/caregivers    Theatre Group - St. James Players - two productions per year - spring and fall - all practices are in the church as is the   spring production  FYD-L-Styx - a musical group practises weekly and uses our space for their concerts   Multi-faith services  Volunteers within the church make up the various committees {Official Board:  Health and Safety, Marketing (for Wesley Hall - our sanctuary/performance space), Affirm Committee, Christian Education Committee, Communications, Finance, Fundraising, Ministry and Personnel, NCC Lease Committee, Stewards, Trustees, Worship,"
+            }
+        ]
+    },
+    {
+        "bn": "891595795RR0001",
+        "legalName": "CHRISTIAN VICTORY CHURCH",
+        "legalNameRaw": "CHRISTIAN VICTORY CHURCH",
+        "accountName": "CHRISTIAN VICTORY CHURCH",
+        "description": "TO PREACH, PROMOTE AND ADVANCE THE SPIRITUAL TEACHINGS OF CHRISTIANITY BY PRACTISING THE RELIGIOUS OBSERVANCES, TENETS AND DOCTRINES ASSOCIATED WITH THE FAITH. TO SUPPORT AND MAINTAIN MISSIONS AND MISSIONARIES IN ORDER TO PROPAGATE THE FAITH.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "9022.00",
+        "revenueRange": {
+            "code": "C",
+            "description": "500,001 - 1,500,000",
+            "value": "852284.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "TO PREACH, PROMOTE AND ADVANCE THE SPIRITUAL TEACHINGS OF CHRISTIANITY BY PRACTISING THE RELIGIOUS OBSERVANCES, TENETS AND DOCTRINES ASSOCIATED WITH THE FAITH. TO SUPPORT AND MAINTAIN MISSIONS AND MISSIONARIES IN ORDER TO PROPAGATE THE FAITH."
+            }
+        ]
+    },
+    {
+        "bn": "108027954RR0001",
+        "legalName": "ST. LUKE'S ANGLICAN CHURCH OF CANADA",
+        "legalNameRaw": "ST. LUKE'S ANGLICAN CHURCH OF CANADA",
+        "accountName": "ST. LUKE'S ANGLICAN CHURCH OF CANADA",
+        "description": "WEEKLY WORSHIP SERVICES, FOOD BANK, THIFT SHOP, COMMUNITY GARDENS ALL OPERATING IN PERSON.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "8440.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "202341.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Anglican",
+        "subcategoryFrench": "Anglicane",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "WEEKLY WORSHIP SERVICES, FOOD BANK, THIFT SHOP, COMMUNITY GARDENS ALL OPERATING IN PERSON."
+            }
+        ]
+    },
+    {
+        "bn": "710165341RR0001",
+        "legalName": "Sherbrooke Heights Alliance Church",
+        "legalNameRaw": "Sherbrooke Heights Alliance Church",
+        "accountName": "Sherbrooke Heights Alliance Church of The Christian and Missionary Alliance in Canada",
+        "description": "WEEKLY WORSHIP SERVICES, PASTORAL CARE TO ATTENDEES, WEEKLY PRAYER MEETINGS. HELD IN AN ESTABLISHED & MAINTAINED BUILDING SERVICE IS RECORDED AND IS AVILABLE YIA SOCIAL MEDIA PLATFORMS.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "6040.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "97835.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "WEEKLY WORSHIP SERVICES, PASTORAL CARE TO ATTENDEES, WEEKLY PRAYER MEETINGS. HELD IN AN ESTABLISHED & MAINTAINED BUILDING SERVICE IS RECORDED AND IS AVILABLE YIA SOCIAL MEDIA PLATFORMS."
+            }
+        ]
+    },
+    {
+        "bn": "108082009RR0001",
+        "legalName": "THE FELLOWSHIP CHRISTIAN CENTRE (PETERBOROUGH COUNTY) INC.",
+        "legalNameRaw": "THE FELLOWSHIP CHRISTIAN CENTRE (PETERBOROUGH COUNTY) INC.",
+        "accountName": "THE FELLOWSHIP CHRISTIAN CENTRE (PETERBOROUGH COUNTY) INC.",
+        "description": "PROVIDE A PLACE OF WORSHIP, ALONG WITH OUTREACH, MISSIONARY AND OTHER ACTIVITIES REGULARLY PERFORMED BY A CHURCH",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "5190.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "59447.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDE A PLACE OF WORSHIP, ALONG WITH OUTREACH, MISSIONARY AND OTHER ACTIVITIES REGULARLY PERFORMED BY A CHURCH"
+            }
+        ]
+    },
+    {
+        "bn": "119092005RR0002",
+        "legalName": "PETERBOROUGH SALVATION ARMY TRUST",
+        "legalNameRaw": "PETERBOROUGH SALVATION ARMY TRUST",
+        "accountName": "PETERBOROUGH SALVATION ARMY TRUST",
+        "description": "ACTIVITIES INVOLVED COLLECTION OF INCOME FROM INVESTED FUNDS AND THE DISTRIBUTION OF FUNDS TO THE JUNIOR AND SENIOR CORPS",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "5000.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "-5653.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Salvation Army Temples",
+        "subcategoryFrench": "Temples de l'Armée du Salut",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "ACTIVITIES INVOLVED COLLECTION OF INCOME FROM INVESTED FUNDS AND THE DISTRIBUTION OF FUNDS TO THE JUNIOR AND SENIOR CORPS"
+            }
+        ]
+    },
+    {
+        "bn": "816660732RR0001",
+        "legalName": "Hill City Baptist Church",
+        "legalNameRaw": "Hill City Baptist Church",
+        "accountName": "Hill City Baptist Church",
+        "description": "This church advances and teaches the religious tenets, doctrines, and observances associated with the Christian faith by gathering its members and the general public together for Biblically-faithful Christian worship a)every Sunday in rented facilities b) in smaller groups in private homes during the week, c) once in a while for a special event (including an annual retreat weekend). The church provides these programs on the local university campus and supports the same through missionary service in Northern Ontario.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "5000.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "182028.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-04-30 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "This church advances and teaches the religious tenets, doctrines, and observances associated with the Christian faith by gathering its members and the general public together for Biblically-faithful Christian worship a)every Sunday in rented facilities b) in smaller groups in private homes during the week, c) once in a while for a special event (including an annual retreat weekend). The church provides these programs on the local university campus and supports the same through missionary service in Northern Ontario."
+            }
+        ]
+    },
+    {
+        "bn": "889783825RR0001",
+        "legalName": "BRIAN MAHOOD MINISTRIES",
+        "legalNameRaw": "BRIAN MAHOOD MINISTRIES",
+        "accountName": "BRIAN MAHOOD MINISTRIES",
+        "description": "TO INTRODUCE TO LIVES AND HOMES THE LOVE AND POWER OF JESUS CHRIST.   TO ENCOURAGE AND EQUIP CHURCHES AND MINISTRIES TO FULFILL THEIR VISION.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "4500.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "30000.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "TO INTRODUCE TO LIVES AND HOMES THE LOVE AND POWER OF JESUS CHRIST.   TO ENCOURAGE AND EQUIP CHURCHES AND MINISTRIES TO FULFILL THEIR VISION."
+            }
+        ]
+    },
+    {
+        "bn": "131952376RR0005",
+        "legalName": "The Church of God of Prophecy of Canada",
+        "legalNameRaw": "The Church of God of Prophecy of Canada",
+        "accountName": "PETERBOROUGH CHURCH OF GOD OF PROPHECY",
+        "description": "THE CHURCH RUNS WEEKLY COMMUNITY OUTREACH EVENTS, WORSHIP SERVICES, SUNDAY SCHOOL PROGRAMS AND CHRISTIAN PROGRAMS FOR CHILDREN, YOUTH AND ADULTS. THE CHURCH ALSO PROVIDES MINISTRIES FOR WOMEN, PARTICIPATES IN SUMMERS CAMP ACTIVITIES.  YOUTH CONFERENCES ARE ORGANIZED BY THE NATIONAL HEAD OFFICE. THE CHURCH MAINTAINS A SENIORS HOME MINISTRY WHERE THE ELDERLY AND SICK ARE VISITED AND MINISTERED TO ON A REGULAR BASIS.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "4407.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "28194.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "THE CHURCH RUNS WEEKLY COMMUNITY OUTREACH EVENTS, WORSHIP SERVICES, SUNDAY SCHOOL PROGRAMS AND CHRISTIAN PROGRAMS FOR CHILDREN, YOUTH AND ADULTS. THE CHURCH ALSO PROVIDES MINISTRIES FOR WOMEN, PARTICIPATES IN SUMMERS CAMP ACTIVITIES.  YOUTH CONFERENCES ARE ORGANIZED BY THE NATIONAL HEAD OFFICE. THE CHURCH MAINTAINS A SENIORS HOME MINISTRY WHERE THE ELDERLY AND SICK ARE VISITED AND MINISTERED TO ON A REGULAR BASIS."
+            }
+        ]
+    },
+    {
+        "bn": "797777695RR0001",
+        "legalName": "Jael Ministries",
+        "legalNameRaw": "Jael Ministries",
+        "accountName": "Jael Ministries",
+        "description": "SERVICES, OUTREACH, PRAYER MEETINGS",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "3300.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "7530.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "SERVICES, OUTREACH, PRAYER MEETINGS"
+            }
+        ]
+    },
+    {
+        "bn": "119176766RR0001",
+        "legalName": "ST JAMES ANGLICAN CHURCH EMILY",
+        "legalNameRaw": "ST JAMES ANGLICAN CHURCH EMILY",
+        "accountName": "ST. JAMES ANGLICAN CHURCH EMILY",
+        "description": "BRIDGENORTH OMEMEE FOOD BANKS   OUR DAILY BREAD   CUDDLES FOR CANCER",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "2565.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "230154.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Anglican",
+        "subcategoryFrench": "Anglicane",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "BRIDGENORTH OMEMEE FOOD BANKS   OUR DAILY BREAD   CUDDLES FOR CANCER"
+            }
+        ]
+    },
+    {
+        "bn": "891378721RR0001",
+        "legalName": "RIVERSIDE COMMUNITY BAPTIST CHURCH",
+        "legalNameRaw": "RIVERSIDE COMMUNITY BAPTIST CHURCH",
+        "accountName": "RIVERSIDE COMMUNITY BAPTIST CHURCH",
+        "description": "MOTHERS AND PRE-SCHOOLERS WEEKDAY MEETING\\nWEEKLY CHURCH WORSHIP AND TEACHING SERVICES FOR ADULTS AND CHILDREN. DAYTIME AND EVENING SMALL GROUPS BIBLE STUDIES. BENEVOLENT SUPPORT FOR INDIVIDUALS SUFFERING FINANCIAL HARDSHIP. VISITATION OF THOSE WHO ARE ILL. COMMUNITY OUTREACH SUCH AS FUN DAYS, ETC.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "2540.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "77843.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Baptist",
+        "subcategoryFrench": "Baptistes",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "NP",
+                "description": "MOTHERS AND PRE-SCHOOLERS WEEKDAY MEETING"
+            },
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "WEEKLY CHURCH WORSHIP AND TEACHING SERVICES FOR ADULTS AND CHILDREN. DAYTIME AND EVENING SMALL GROUPS BIBLE STUDIES. BENEVOLENT SUPPORT FOR INDIVIDUALS SUFFERING FINANCIAL HARDSHIP. VISITATION OF THOSE WHO ARE ILL. COMMUNITY OUTREACH SUCH AS FUN DAYS, ETC."
+            }
+        ]
+    },
+    {
+        "bn": "786545111RR0001",
+        "legalName": "Peterborough City Church",
+        "legalNameRaw": "Peterborough City Church",
+        "accountName": "PETERBOROUGH CITY CHURCH",
+        "description": "ESTABLISH, MAINTAIN, AND SUPPORT A HOUSE OF WORSHIP WITH SERVICES CONDUCTED IN ACCORDANCE WITH THE TENETS OF THE CHRISTIAN FAITH.  SUPPORT AND MAINTAIN MISSIONS AND MISSIONARIES IN ORDER TO PROPAGATE THE CHRISTIAN FAITH  RELIEVE POVERTY BY PROVIDING FOOD AND OTHER BASIC NECESSITIES OF LIFE TO INDIVIDUALS AND FAMILIES IN NEED",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "2515.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "28886.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "ESTABLISH, MAINTAIN, AND SUPPORT A HOUSE OF WORSHIP WITH SERVICES CONDUCTED IN ACCORDANCE WITH THE TENETS OF THE CHRISTIAN FAITH.  SUPPORT AND MAINTAIN MISSIONS AND MISSIONARIES IN ORDER TO PROPAGATE THE CHRISTIAN FAITH  RELIEVE POVERTY BY PROVIDING FOOD AND OTHER BASIC NECESSITIES OF LIFE TO INDIVIDUALS AND FAMILIES IN NEED"
+            }
+        ]
+    },
+    {
+        "bn": "106805542RR0001",
+        "legalName": "BRAIDWOOD BIBLE CHAPEL",
+        "legalNameRaw": "BRAIDWOOD BIBLE CHAPEL",
+        "accountName": "BRAIDWOOD BIBLE CHAPEL",
+        "description": "BIBLE TEACHING AND SUNDAY SCHOOL   LADIES GROUP, MENS RETREAT, CHILDRENS CLUB, TEEN CLUB, YOUTH GROUP, LIBRARY MISSIONARY FUNDING, CHRISTIAN EDUCATION FUNDING, CHILDRENS DAYCAMP FUNDING",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "1500.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "130470.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "BIBLE TEACHING AND SUNDAY SCHOOL   LADIES GROUP, MENS RETREAT, CHILDRENS CLUB, TEEN CLUB, YOUTH GROUP, LIBRARY MISSIONARY FUNDING, CHRISTIAN EDUCATION FUNDING, CHILDRENS DAYCAMP FUNDING"
+            }
+        ]
+    },
+    {
+        "bn": "119276061RR0001",
+        "legalName": "UNITARIAN FELLOWSHIP OF PETERBOROUGH",
+        "legalNameRaw": "UNITARIAN FELLOWSHIP OF PETERBOROUGH",
+        "accountName": "UNITARIAN FELLOWSHIP OF PETERBOROUGH",
+        "description": "The Unitarian Fellowship of Peterborough is a Unitarian Universalist Church that holds weekly worship services throughout the year.  We provide programs for all ages that support personal and spiritual growth as well as community connection.  We provide pastoral care to our congregation and to others who come to us for support.  We provide opportunities for education and engagement regarding indigenous allyship, food security, antiracism, and LGBTQ issues.  We financially support local organizations that provide charitable services such as the food bank and the AIDS Resource Centre, and work with multifaith partners to address social justice issues at community and systemic levels.  Our congregation sponsors and settles refugees in our community.  This aspect of our mission is carried on entirely by volunteers who are Members and Friends of the Unitarian Fellowship.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "985.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "206052.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "The Unitarian Fellowship of Peterborough is a Unitarian Universalist Church that holds weekly worship services throughout the year.  We provide programs for all ages that support personal and spiritual growth as well as community connection.  We provide pastoral care to our congregation and to others who come to us for support.  We provide opportunities for education and engagement regarding indigenous allyship, food security, antiracism, and LGBTQ issues.  We financially support local organizations that provide charitable services such as the food bank and the AIDS Resource Centre, and work with multifaith partners to address social justice issues at community and systemic levels.  Our congregation sponsors and settles refugees in our community.  This aspect of our mission is carried on entirely by volunteers who are Members and Friends of the Unitarian Fellowship."
+            }
+        ]
+    },
+    {
+        "bn": "798278735RR0001",
+        "legalName": "Peterborough Monthly Meeting of the Religious Society of Friends (Quakers)",
+        "legalNameRaw": "Peterborough Monthly Meeting of the Religious Society of Friends (Quakers)",
+        "accountName": "Peterborough Monthly Meeting of the Religious Society of Freinds (Quakers)",
+        "description": "We conducted of in-person and hybrid (on-line and in-person) meetings for worship every week. Once a month we provided programming to members and attenders to further their spiritual lives. We supported one member in a months-long spiritual leadership course.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "650.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "5585.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "We conducted of in-person and hybrid (on-line and in-person) meetings for worship every week. Once a month we provided programming to members and attenders to further their spiritual lives. We supported one member in a months-long spiritual leadership course."
+            }
+        ]
+    },
+    {
+        "bn": "119175859RR0001",
+        "legalName": "ST GILES PRESBYTERIAN CHURCH",
+        "legalNameRaw": "ST GILES PRESBYTERIAN CHURCH",
+        "accountName": "ST. GILES PRESBYTERIAN CHURCH",
+        "description": "PROVIDE PASTORAL CARE AND WELFARE TO CONGREGATION, SUPPORT WORLD WIDE SERVICE THROUGH THE PRESBYTERIAN CHURCH IN CANADA, PROVIDE PASTORAL CARE AND SPIRITUAL GUIDANCE FOR STREET PROPLE IN THE DOWNTOWN AREA OF PETERBOROUGH VIA \"LIVING WATERS\" MINISTRY .",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "595.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "152858.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Presbyterian",
+        "subcategoryFrench": "Presbytériennes",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "PROVIDE PASTORAL CARE AND WELFARE TO CONGREGATION, SUPPORT WORLD WIDE SERVICE THROUGH THE PRESBYTERIAN CHURCH IN CANADA, PROVIDE PASTORAL CARE AND SPIRITUAL GUIDANCE FOR STREET PROPLE IN THE DOWNTOWN AREA OF PETERBOROUGH VIA \"LIVING WATERS\" MINISTRY ."
+            }
+        ]
+    },
+    {
+        "bn": "106926710RR0001",
+        "legalName": "CHURCH OF THE OPEN BIBLE",
+        "legalNameRaw": "CHURCH OF THE OPEN BIBLE",
+        "accountName": "CHURCH OF THE OPEN BIBLE",
+        "description": "WE OFFER WEEKLY SERVICES OF WORSHIP.  WE OFFER RELIGIOUS INSTRUCTION. WE OFFER PASTORAL CARE.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "17801.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "WE OFFER WEEKLY SERVICES OF WORSHIP.  WE OFFER RELIGIOUS INSTRUCTION. WE OFFER PASTORAL CARE."
+            }
+        ]
+    },
+    {
+        "bn": "118947241RR0001",
+        "legalName": "GREEK ORTHODOX COMMUNITY OF PETERBOROUGH",
+        "legalNameRaw": "GREEK ORTHODOX COMMUNITY OF PETERBOROUGH",
+        "accountName": "GREEK ORTHODOX COMMUNITY OF PETERBOROUGH",
+        "description": "GREEK FESTIVAL PROMOTING GREEK CULTURE, FOOD AND MUSIC. CANCELLED DUE TO COVID 19 PANDEMIC RESTRICTIONS.\\nMONTHLY CHURCH SERVICES AND ON RELIGIOUS GREEK ORTHODOX HOLIDAYS. FUND RAISING FROM ANNUAL GREEK FESTIVAL, CHURCH SUPPERS AND CANADA DAY MULTICULTURAL EVENT IN PETERBOROUGH, ONTARIO. DUE TO COVID-19 PANDEMIC RESTRICTIONS, THESE ACTIVITIES WERE CANCELLED.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "23058.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "NP",
+                "description": "GREEK FESTIVAL PROMOTING GREEK CULTURE, FOOD AND MUSIC. CANCELLED DUE TO COVID 19 PANDEMIC RESTRICTIONS."
+            },
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "MONTHLY CHURCH SERVICES AND ON RELIGIOUS GREEK ORTHODOX HOLIDAYS. FUND RAISING FROM ANNUAL GREEK FESTIVAL, CHURCH SUPPERS AND CANADA DAY MULTICULTURAL EVENT IN PETERBOROUGH, ONTARIO. DUE TO COVID-19 PANDEMIC RESTRICTIONS, THESE ACTIVITIES WERE CANCELLED."
+            }
+        ]
+    },
+    {
+        "bn": "119033660RR0001",
+        "legalName": "MARK STREET UNITED CHURCH",
+        "legalNameRaw": "MARK STREET UNITED CHURCH",
+        "accountName": "MARK STREET UNITED CHURCH",
+        "description": "A PLACE OF WORSHIP FOR A UNITED CHURCH CONGREGATION, SOCIAL OUTREACH, RELIGIOUS FELLOWSHIP, BREAKFAST PROGRAM FOR YOUTH, SUPPORT FOR YOUTH GROUPS AND COMMUNITY BASEBALL LEAGUE.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "212408.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "United",
+        "subcategoryFrench": "Unie",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "A PLACE OF WORSHIP FOR A UNITED CHURCH CONGREGATION, SOCIAL OUTREACH, RELIGIOUS FELLOWSHIP, BREAKFAST PROGRAM FOR YOUTH, SUPPORT FOR YOUTH GROUPS AND COMMUNITY BASEBALL LEAGUE."
+            }
+        ]
+    },
+    {
+        "bn": "119271013RR0001",
+        "legalName": "TRINITY UNITED CHURCH",
+        "legalNameRaw": "TRINITY UNITED CHURCH",
+        "accountName": "TRINITY UNITED CHURCH",
+        "description": "None\\nProvided Weekly Worship Service's  Volunteer's Worked Food Bank  Sunday School Available , no one attending  Vacation Bible School Cancelled again due to Covid-19  Active UCW",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "36888.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "United",
+        "subcategoryFrench": "Unie",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "NP",
+                "description": "None"
+            },
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "Provided Weekly Worship Service's  Volunteer's Worked Food Bank  Sunday School Available , no one attending  Vacation Bible School Cancelled again due to Covid-19  Active UCW"
+            }
+        ]
+    },
+    {
+        "bn": "134432806RR0001",
+        "legalName": "PARK STREET GOSPEL HALL",
+        "legalNameRaw": "PARK STREET GOSPEL HALL",
+        "accountName": "PARK STREET GOSPEL HALL",
+        "description": "GOSPEL MEETING, PRAYER MEETING, MINISTRY MEETING, DISTRIBUTION OF GODS WORD BY MAIL",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "F",
+            "description": "30,000 or less",
+            "value": "0.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "GOSPEL MEETING, PRAYER MEETING, MINISTRY MEETING, DISTRIBUTION OF GODS WORD BY MAIL"
+            }
+        ]
+    },
+    {
+        "bn": "802292466RR0001",
+        "legalName": "NEW LIFE CHURCH - PETERBOROUGH INC.",
+        "legalNameRaw": "NEW LIFE CHURCH - PETERBOROUGH INC.",
+        "accountName": "New Life Church - Peterborough Inc.",
+        "description": "Conducts prayer and woship meetings weekly. Holds open Bible Study Groups weekly. Teach Sunday School to children 5-14. Weekly holds open prayer meetings. Provides fellowship and social events for Members. Offers Pastoral Counselling for individuals members and non-members. Conducts outreach events such as community suppers, unversity and college aged outreach.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "150822.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "26",
+                "activityCode": "OP",
+                "description": "Conducts prayer and woship meetings weekly. Holds open Bible Study Groups weekly. Teach Sunday School to children 5-14. Weekly holds open prayer meetings. Provides fellowship and social events for Members. Offers Pastoral Counselling for individuals members and non-members. Conducts outreach events such as community suppers, unversity and college aged outreach."
+            }
+        ]
+    },
+    {
+        "bn": "820320448RR0001",
+        "legalName": "LIFE ACTION MINISTRIES ASSOCIATION (2013)",
+        "legalNameRaw": "LIFE ACTION MINISTRIES ASSOCIATION (2013)",
+        "accountName": "LIFE ACTION MINISTRIES ASSOCIATION (2013)",
+        "description": "PRESENTATION OF BIBLICAL PRICINPLES IN CHURCHES, PRESNETATION OF FAMILY AND YOUTH CONFERENCES IN CHURCHES, EVANGELISTIC OUTREACH, TRAINING AND MANAGEMENT OF EVANGELISTIC TEAMS AND PROVIDING RESOURCES FOR CHRISTIAN GROWTH.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "D",
+            "description": "150,001 - 500,000",
+            "value": "247189.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-09-30 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "PRESENTATION OF BIBLICAL PRICINPLES IN CHURCHES, PRESNETATION OF FAMILY AND YOUTH CONFERENCES IN CHURCHES, EVANGELISTIC OUTREACH, TRAINING AND MANAGEMENT OF EVANGELISTIC TEAMS AND PROVIDING RESOURCES FOR CHRISTIAN GROWTH."
+            }
+        ]
+    },
+    {
+        "bn": "830916003RR0001",
+        "legalName": "The Parish",
+        "legalNameRaw": "The Parish",
+        "accountName": "The Parish",
+        "description": "THE PARISH PROVIDES WEEKLY WORSHIP SERVICES AS WELL AS WEEKLY PROGRAMS FOR  CHILDREN AND YOUTH. AS NEEDED/DESIRED, WE HOLD WEEKLY DISCUSSION GROUPS AND  ANNUAL PICNICS AND A BAPTISMAL SERVICE. WE GIVE TO MISSION ENDEAVOURS, BOTH  LOCALLY AND AROUND THE WORLD.",
+        "city": "PETERBOROUGH",
+        "province": "Ontario",
+        "sortBy": "5050",
+        "sortValue": "0.00",
+        "revenueRange": {
+            "code": "E",
+            "description": "30,001 - 150,000",
+            "value": "119032.00"
+        },
+        "categoryEnglish": "Christianity",
+        "categoryFrench": "Christianisme",
+        "subcategoryEnglish": "Other",
+        "subcategoryFrench": "Autre",
+        "descriptionEnglish": "Advancement of Religion",
+        "descriptionFrench": "Avancement de la religion",
+        "programs": [
+            {
+                "fpe": "2022-12-31 00:00:00",
+                "formId": "25",
+                "activityCode": "OP",
+                "description": "THE PARISH PROVIDES WEEKLY WORSHIP SERVICES AS WELL AS WEEKLY PROGRAMS FOR  CHILDREN AND YOUTH. AS NEEDED/DESIRED, WE HOLD WEEKLY DISCUSSION GROUPS AND  ANNUAL PICNICS AND A BAPTISMAL SERVICE. WE GIVE TO MISSION ENDEAVOURS, BOTH  LOCALLY AND AROUND THE WORLD."
+            }
+        ]
+    }
+]}

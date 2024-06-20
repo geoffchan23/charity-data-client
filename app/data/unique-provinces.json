@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ontario",
+    "count": 9763
+  },
+  {
+    "name": "Quebec",
+    "count": 8251
+  },
+  {
+    "name": "British Columbia",
+    "count": 5049
+  },
+  {
+    "name": "Alberta",
+    "count": 3112
+  },
+  {
+    "name": "Manitoba",
+    "count": 1800
+  },
+  {
+    "name": "Saskatchewan",
+    "count": 1451
+  },
+  {
+    "name": "Nova Scotia",
+    "count": 1392
+  },
+  {
+    "name": "New Brunswick",
+    "count": 909
+  },
+  {
+    "name": "Newfoundland and Labrador",
+    "count": 396
+  },
+  {
+    "name": "Prince Edward Island",
+    "count": 215
+  },
+  {
+    "name": "Yukon",
+    "count": 76
+  },
+  {
+    "name": "Northwest Territories",
+    "count": 59
+  },
+  {
+    "name": "Nunavut",
+    "count": 19
+  },
+  {
+    "name": "California",
+    "count": 2
+  },
+  {
+    "name": "Arizona",
+    "count": 1
+  },
+  {
+    "name": "Texas",
+    "count": 1
+  },
+  {
+    "name": "Washington",
+    "count": 1
+  },
+  {
+    "name": "Vermont",
+    "count": 1
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "Relief of Poverty": [
+    "Organizations Relieving Poverty",
+    "Foundations Relieving Poverty"
+  ],
+  "Advancement of Education": [
+    "Teaching Institutions",
+    "Support of schools and education",
+    "Education in the arts",
+    "Educational organizations not elsewhere categorized",
+    "Research",
+    "Foundations Advancing Education"
+  ],
+  "Advancement of Religion": [
+    "Christianity",
+    "Islam",
+    "Judaism",
+    "Other Religions",
+    "Support of Religion",
+    "Ecumenical and Inter-faith Organizations",
+    "Foundations Advancing Religions"
+  ],
+  "Other Purposes Beneficial to the Community": [
+    "Core Health Care",
+    "Supportive Health Care",
+    "Protective Health Care",
+    "Health Care Products",
+    "Complementary or Alternative Health Care",
+    "Relief of the Aged",
+    "Upholding Human Rights",
+    "Community Resource",
+    "Environment",
+    "Agriculture",
+    "Animal Welfare",
+    "Arts",
+    "Public Amenities",
+    "Foundations",
+    "NASO"
+  ]
+}
