@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Charity Data Client
+
+This project started as a way for me to learn how to implement AI technologies (RAG, vector DBs, Langchain, prompt engineering etc.). I had also hoped that some of my work might be helpful to charities, so I have open-sourced the project.
+
+This repo hosts a Next.js client app to make it easy to query and display semantic search results. It also allows you to do regular keyword/filter search on the JSON data. This only works locally because it uses [lowdb](https://github.com/typicode/lowdb), which does not work on Vercel. The backend repo can be found here: https://github.com/geoffchan23/charity-data-backend. The hosted app can be found at this URL: https://charity-data-client.vercel.app/.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
